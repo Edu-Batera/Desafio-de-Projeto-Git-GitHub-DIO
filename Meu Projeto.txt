@@ -1,0 +1,10 @@
+### Olá! Obrigado por visualizar o meu projeto!
+
+Nele, está contido o meu currículo construído em Html/CSS e JavaScript com o pouco conhecimento que adiquiri. Espero que apreciem.
+
+Um forte abraço e meus agradecimentos a todos os instrutores e a DIO.
+
+
+
+
+
